@@ -1,0 +1,2 @@
+name = amir
+console.log(hello + name);
